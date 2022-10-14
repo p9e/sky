@@ -1,4 +1,4 @@
-# zlib license <br> [&copy; &hellip;](../../../)
+# zlib license [:cyclone:](../../../)
 
 ```
 This software is provided 'as-is', without any express or implied
